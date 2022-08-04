@@ -1,4 +1,2 @@
-# git-collaboration
-A repository to test out collaboration with git
-
-Collaborators: _________________
+# mac-and-windows
+W3D2 Exercise
